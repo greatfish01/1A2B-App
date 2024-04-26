@@ -10,12 +10,15 @@ Provides hints based on the user's guess:
 'B' indicates correct digit but wrong position.
 
 # Navigation and Game Flow
-Start Fragment:
+Start Fragment:/n
 Pressing the "START" button navigates to the guessing fragment (guessFragment) to begin the game.
+
 Guess Fragment:
+
 Displays current score, round number, and remaining guess attempts.
 Allows users to input a four-digit guess and limits input to valid format.
 Pressing "GUESS" button displays the hints for the current guess.
+
 Result Fragment (After fourth round):
 Shows the game record, including answers and guess attempts for each round.
 Provides options to start a new game (NEXT GAME) or return to the home screen (HOME).
