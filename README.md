@@ -2,9 +2,9 @@
 This Android app implements a digital version of the classic Mastermind game. The game involves guessing a secret code based on provided hints until the correct code is determined within four rounds.
 
 # Game Rules and Features
-# Number Generation Rule
+Number Generation Rule
 Generates a random four-digit code with non-repeating digits (including leading zero).
-# Hint Generation (A and B)
+Hint Generation (A and B)
 Provides hints based on the user's guess:
 'A' indicates correct digit and position.
 'B' indicates correct digit but wrong position.
